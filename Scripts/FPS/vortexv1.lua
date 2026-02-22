@@ -1,10 +1,10 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "V0Rt3x Hub ULTIMATE",
+   Name = "V0Rt3x Cheat",
    LoadingTitle = "Initializing Vortex...",
    LoadingSubtitle = "by yKyoshi",
-   ConfigurationSaving = { Enabled = true, FolderName = "VortexUltimate" },
+   ConfigurationSaving = { Enabled = true, FolderName = "VortexCheat" },
    KeySystem = false
 })
 
@@ -161,4 +161,4 @@ RunService.RenderStepped:Connect(function()
     end
 end)
 
-Rayfield:Notify({Title = "Vortex", Content = "Vortex 1.0 running!", Duration = 5})
+Rayfield:Notify({Title = "V0Rt3x", Content = "V0Rt3x Cheat was successfully loaded!", Duration = 5})

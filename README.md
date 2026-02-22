@@ -2,5 +2,5 @@
 
 Test your game anti-cheat!
 
-*For FPS Games:*
-`loadstring(game:HttpGet("https://gitlab.com/ykyoshiii-group/Codes/-/raw/main/Vortex-cheat/vortex_v1.lua"))()`
+*For FPS Games:*\n
+`loadstring(game:HttpGet("https://raw.githubusercontent.com/yKyoshiii/RBX-Anticheat-Test/refs/heads/main/Scripts/FPS/vortexv1.lua"))()`
